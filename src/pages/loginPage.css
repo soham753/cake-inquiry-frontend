@@ -1,0 +1,11 @@
+.loginPage {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom right,
+            hsl(358, 82%, 87%),
+            #fad3e8,
+            #f2baff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
